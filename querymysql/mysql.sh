@@ -7,7 +7,7 @@
 
 
 
-user=pipcount
+user=USERS
 pass='pasword'
 host=ipaddress
 port=PORT
