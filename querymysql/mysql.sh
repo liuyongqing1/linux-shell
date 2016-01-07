@@ -1,8 +1,8 @@
 #!/bin/bash
 #脚本名:mysql.sh
 #脚本描述:查询mysql数据库并获取玩家信息
-#by yongqing.liu
-#2015.12.21
+#    by yongqing.liu
+#         2015.12.21
 #
 
 
