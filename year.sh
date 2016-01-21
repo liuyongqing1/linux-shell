@@ -11,7 +11,7 @@ mi=candidate.xml
 while read line;do
         id=`echo $line|awk '{print $1}' `
         name=`echo $line|awk '{print $2}'`
-        echo    " <candidate id=\"gonghao$id\" desc=\"$name\" count=\"1\" level=\"0\" />" >>$mi 
+        echo    " <candidate id=\"¿¿$id\" desc=\"$name\" count=\"1\" level=\"0\" />" >>$mi 
         let count=$count+1
 done<$user
 echo "</candidates>">>$mi
